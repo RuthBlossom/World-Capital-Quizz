@@ -6,6 +6,7 @@ This is a simple quiz application built using Node.js with Express.js and Postgr
 
 ![world quizz](https://github.com/user-attachments/assets/8c097147-0ea6-40b5-8e22-1e05f204a5ac)
 ![world quizz 2](https://github.com/user-attachments/assets/29c4cf26-7984-453e-907a-d5984d819b4b)
+![world Quizz 3](https://github.com/user-attachments/assets/7876d9c4-bc2d-4dec-92ee-3ad0f684ed00)
 
 
 ## Features
